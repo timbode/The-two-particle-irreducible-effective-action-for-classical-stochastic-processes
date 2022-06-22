@@ -1,8 +1,9 @@
 # The Two-Particle Irreducible Effective Action for Classical Stochastic Processes
 
 This code base is using the Julia Language and [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
-to make a reproducible scientific project named
-> The Two-Particle Irreducible Effective Action for Classical Stochastic Processes
+to enable reproduction of the numerical results of the research article 
+
+[The Two-Particle Irreducible Effective Action for Classical Stochastic Processes](https://doi.org/10.1088/1751-8121/ac73c6).
 
 It is authored by Tim Bode.
 
